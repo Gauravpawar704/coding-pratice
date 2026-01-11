@@ -23,3 +23,17 @@ This repository is my daily practice space where I upload programs and mini proj
 
 ---
 ⭐ If you find this repository useful, feel free to star it.
+## Day 1 Completed ✅ (Arrays & Searching)
+- Linear Search
+- Binary Search
+- Find maximum element
+- Count frequency of element
+- Check element present or not
+- Even / Odd using bool
+
+- ## Day 2 Completed ✅ (Sorting & Array Logic)
+- Bubble Sort
+- Selection Sort
+- Reverse array
+- Second largest element
+- Sum of elements
