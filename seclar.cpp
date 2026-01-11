@@ -1,0 +1,33 @@
+// Program: Find second largest element in array
+// Author: Gaurav
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int arr[50], n;
+    cout << "Enter number of elements: ";
+    cin >> n;
+
+    cout << "Enter elements:\n";
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i];
+    }
+    int largest = arr[0];
+    int second = -999999;
+    for (int i = 0; i < n; i++)
+    {
+        if (arr[i] < largest)
+        {
+            second = largest;
+            largest = arr[i];
+        }
+        else if (arr[i] > second && arr[i] != largest)
+        {
+            second = arr[i];
+        }
+    }
+    cout << "Second largest element=" << second;
+    return 0;
+}
