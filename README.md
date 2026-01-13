@@ -38,16 +38,16 @@ This repository is my daily practice space where I upload programs and mini proj
 - Second largest element
 - Sum of elements
 
-✅ Day 3 Completed (Functions & Recursion)
-Add two numbers using function
-Factorial using function
-Factorial using recursion
-Fibonacci series using recursion
-Even / Odd using function
+- ## Day 3 Completed (Functions & Recursion)
+- Add two numbers using function
+- Factorial using function
+- Factorial using recursion
+- Fibonacci series using recursion
+- Even / Odd using function
 
-✅ Day 4 Completed (Arrays – Core Operations)
-Check if array is sorted
-Count positive, negative and zero elements
-Find maximum element in array
-Find minimum element in array
-Reverse array using function
+- ## Day 4 Completed (Arrays – Core Operations)
+- Check if array is sorted
+- Count positive, negative and zero elements
+- Find maximum element in array
+- Find minimum element in array
+- Reverse array using function
