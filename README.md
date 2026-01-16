@@ -51,3 +51,17 @@ This repository is my daily practice space where I upload programs and mini proj
 - Find maximum element in array
 - Find minimum element in array
 - Reverse array using function
+
+## Day 5 Completed ✅ (Sorting & Array Logic)
+- Bubble Sort
+- Selection Sort
+- Palindrome array check
+- Merge two arrays
+
+- ## Day 6 Completed ✅ (Functions & Recursion)
+- Prime number using function  
+- Armstrong number using function  
+- Count digits using function  
+- Power using recursion  
+- Fibonacci series using recursion  
+- Factorial using recursion
