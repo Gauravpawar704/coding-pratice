@@ -66,7 +66,7 @@ This repository is my daily practice space where I upload programs and mini proj
 - Fibonacci series using recursion  
 - Factorial using recursion
 
-##Day 7 Completed ✅ Pattern & String Programs
+## Day 7 Completed ✅ Pattern & String Programs
 - Reverse String
 - Palindrome String
 - Vowel Count
