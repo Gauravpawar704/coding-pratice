@@ -72,3 +72,10 @@ This repository is my daily practice space where I upload programs and mini proj
 - Vowel Count
 - Star Pattern
 - Number Pattern
+
+## Day 8 Completed ✅ Arrays Programs
+- Binary Search    
+- Count occurrences of an element  
+- Remove duplicate elements  
+- Linear search using function  
+- Find second largest element
