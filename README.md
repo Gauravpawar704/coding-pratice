@@ -79,3 +79,16 @@ This repository is my daily practice space where I upload programs and mini proj
 - Remove duplicate elements  
 - Linear search using function  
 - Find second largest element
+
+
+
+## Day 10 completed ✅ Array Searching Programs
+- Find first and last occurrence of an element  
+
+### 🧠 Concepts Practiced:
+- Array traversal
+- Conditions (if / else)
+- Loop control
+- Searching logic
+- Index tracking
+- Time complexity awareness
