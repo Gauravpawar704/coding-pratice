@@ -90,5 +90,37 @@ This repository is my daily practice space where I upload programs and mini proj
 - Conditions (if / else)
 - Loop control
 - Searching logic
+
+- # C++ Pointers Practice
+
+This repository contains C++ programs focused only on **Pointers**.
+These programs demonstrate how pointers work with memory, functions, and values.
+
+## 📚 Topics Covered
+- Pointer basics  
+- Address and dereference operators  
+- Call by reference  
+- Swapping using pointers  
+- Pointer arithmetic  
+
+## 💻 Programs Included
+1. Print value and address using pointer  
+2. Swap two numbers using pointers  
+3. Pointer arithmetic demonstration  
+4. Call by reference example  
+5. Find largest number using pointers  
+
+## 🎯 Purpose
+- Understand memory handling in C++  
+- Build strong foundation for DSA  
+- Learn real use of pointers  
+- Improve low-level programming skills  
+
+## 🛠 Language Used
+- C++
+
+---
+
+📌 *This repository is part of my daily C++ learning journey.*
 - Index tracking
 - Time complexity awareness
