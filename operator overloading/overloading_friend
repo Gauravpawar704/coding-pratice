@@ -1,0 +1,23 @@
+// Program: Overloading using friend function
+// author: Gaurav
+#include<iostream>
+#define pi 3.1415926
+using namespace std;
+class circle
+{
+    float radius;
+    public: 
+           void showArea();
+           friend int main();
+};
+void circle::showArea()
+{
+    cout<<"Area= "<<pi*radius*radius<<endl;
+};
+int main()
+{
+    circle x;
+    x.radius=5.00;
+    x.showArea();
+    return 0;
+}
