@@ -91,6 +91,12 @@ This repository is my daily practice space where I upload programs and mini proj
 - Loop control
 - Searching logic
 
+
+## Day 11 Completed ✅ (Operator overloading)
+- Operator oveloading to multiply matrice
+- Conversion function
+    - User defined to basic data type
+    - funtion in source class
 - # C++ Pointers Practice
 
 This repository contains C++ programs focused only on **Pointers**.
